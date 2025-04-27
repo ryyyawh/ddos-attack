@@ -10,7 +10,7 @@ If you don't have Python installed, download it from the official Python website
 
 2. Clone the repository:
 
-git clone https://github.com/ryyyawh/ddos-simple.git
+git clone https://github.com/ryyyawh/ddos-attack.git
 cd ddos-simple
 
 
